@@ -13,6 +13,10 @@ This project focuses on Loan Status Prediction using Support Vector Machines (SV
 Description
 Explore the enchanting world of the MakeMoon dataset with my Decision Tree model. I've implemented a powerful decision tree algorithm to classify data points within this unique dataset. This project showcases the versatility of decision trees and their ability to handle complex data.
 
+**4. 🌼 Flower Dataset Model Comparison**
+Description
+In this project, I have undertaken a comprehensive analysis of the Flower Dataset, comparing the accuracy of various machine learning models. I've used Logistic Regression, Support Vector Machines (SVM), and Random Forest Classifier models to predict flower species. This project offers valuable insights into the performance of different algorithms on this dataset, helping you choose the best approach for your classification tasks.
+
 Feel free to dive into each project's respective folder for in-depth documentation and code. If you have any questions or suggestions, please don't hesitate to contact me. I hope you find these projects insightful and inspiring for your own machine learning endeavors.
 
 **Happy coding! **🚀🤖📊
